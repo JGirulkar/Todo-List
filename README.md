@@ -1,5 +1,6 @@
 React Todo List
-![Alt text](image.png)
+![image](https://github.com/JGirulkar/Todo-List/assets/72917082/94bc9d67-75cd-4c45-ba46-1b9b077ea8a5)
+
 
 Table of Contents
 Introduction
